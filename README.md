@@ -25,3 +25,5 @@ In order to execute the program, user has to open the file named ‘horse racing
 •	Only red, blue or black horse should be selected.
 •	Betting amount should be in the range of 500-10000. 
 
+![image](https://user-images.githubusercontent.com/92040487/210611792-a64f6390-c280-421d-825c-4b264a5b81e9.png)
+
