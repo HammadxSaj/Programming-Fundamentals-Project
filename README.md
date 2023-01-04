@@ -1,6 +1,6 @@
 # Programming-Fundamentals-Project
 
-#Introduction: 
+# Introduction: 
 
 Our "horse race betting game" includes a random number of horses based on the programmer's preference and need, as well as the option to wager on a single horse. If the user's chosen horse wins, the betted sum rises by three times, whereas if the horse loses, the user loses the whole amount. It's worth noting that our program isn't hardcoded, nor does it follow a precise pattern that may enable the user to win all of the time; instead, we utilized Python's "random" function to avoid any set order.
 If a user chooses a "blue” horse and lays a bet of "x," the user will gain "3*x" if the blue horse wins, but if the user loses, he or she will lose the whole betted sum.
